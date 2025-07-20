@@ -17,7 +17,7 @@ Microsoft Defender XDR · CrowdStrike Falcon · Palo Alto Cortex XDR · Sentinel
 
 <h2>👨‍💻 Projects </h2>
 
-- <b>[DNS Sinkhole](https://github.com/FZIRBEL/DNS-Sinkhole)</b>
+- <b>[DNS Sinkhole](https://github.com/fredzirbel/DNS-Sinkhole)</b>
 - <b>[Active Directory Lab](https://tryhackme.com/r/room/winadbasics)</b>
 
 <h2> 📜 Certifications </h2>
