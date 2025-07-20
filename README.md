@@ -5,7 +5,7 @@
 
 ---
 
-I am a Security Analyst with hands-on experience in SIEM and EDR/XDR platforms, focusing on threat detection, log analysis, and incident response across enterprise environments. Currently, I am pursuing a Master of Science in Cybersecurity and Information Assurance (online, asynchronous) to deepen my technical expertise and strategic understanding of the field. My work regularly involves the following tools and technologies:
+I am a security analyst with hands-on experience in SIEM and EDR/XDR platforms, focusing on threat detection, log analysis, and incident response across enterprise environments. Currently, I am pursuing a Master of Science in Cybersecurity and Information Assurance (online, asynchronous) to deepen my technical expertise and strategic understanding of the field. My work regularly involves the following tools and technologies:
 
 
 ### 🛡️ SIEMs 
