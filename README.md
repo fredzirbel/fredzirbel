@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Fred! 👋</h1>
-
-<p align="center">
-  Security Analyst at <a href="https://www.criticalstart.com/" target="_blank">Critical Start</a>  
-</p>
+<h3 align="center">
+  Security Analyst at <a href="https://www.criticalstart.com/" target="_blank">Critical Start</a>
+</h3>
 
 ---
 
@@ -24,17 +23,17 @@ Microsoft Defender XDR · CrowdStrike Falcon · Palo Alto Cortex XDR · Sentinel
 <h2> 📜 Certifications </h2>
 
 Active certifications:
-- [CompTIA CySA+](https://www.credly.com/badges/169e383d-80ba-4a0a-b12b-b1cf447bac8e)
-- [CompTIA Security+](https://www.credly.com/badges/9283e8db-5d15-40a4-af14-5b44b5fcc42c)
-- [CompTIA A+](https://www.credly.com/badges/c183d3cb-6f71-4313-abfd-2bae18629f53)
-- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)
+- <b>[CompTIA CySA+](https://www.credly.com/badges/169e383d-80ba-4a0a-b12b-b1cf447bac8e)</b>
+- <b>[CompTIA Security+](https://www.credly.com/badges/9283e8db-5d15-40a4-af14-5b44b5fcc42c)</b>
+- <b>[CompTIA A+](https://www.credly.com/badges/c183d3cb-6f71-4313-abfd-2bae18629f53)</b>
+- <b>[ISC2 Certified in Cybersecurity](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)</b>
 
 Currently studying for:
-- [CompTIA PenTest+](https://partners.comptia.org/certifications/pentest) [Estimated: July 2025]
+- <b>[CompTIA PenTest+](https://partners.comptia.org/certifications/pentest) [Estimated: July 2025]</b>
 
 Planned for the near future:
-- [CompTIA SecurityX/CASP+](https://www.comptia.org/en-us/certifications/securityx/)
-- [ISACA CISM](https://www.isaca.org/credentialing/cism)
+- <b>[CompTIA SecurityX/CASP+](https://www.comptia.org/en-us/certifications/securityx/)</b>
+- <b>[ISACA CISM](https://www.isaca.org/credentialing/cism)</b>
 
 
 <h2> 🤳 Connect with me! </h2>
