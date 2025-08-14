@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Fred! 👋</h1>
 <h3 align="center">
-  Security Analyst at <a href="https://www.criticalstart.com/" target="_blank">Critical Start</a>
+  Senior Security Analyst at <a href="https://www.criticalstart.com/" target="_blank">Critical Start</a>
 </h3>
 
 ---
 
-I am a security analyst with hands-on experience in SIEM and EDR/XDR platforms, focusing on threat detection, log analysis, and incident response across enterprise environments. Currently, I am pursuing a Master of Science in Cybersecurity and Information Assurance (online, asynchronous) to deepen my technical expertise and strategic understanding of the field. My work regularly involves the following tools and technologies:
+I am a Senior Security Analyst with deep, hands-on experience in SIEM and EDR/XDR platforms, where I focus on threat detection, log analysis, and incident response for enterprise environments. I’m currently pursuing a Master of Science degree in Cybersecurity and Information Assurance (online, asynchronous), expanding my technical skills while sharpening my strategic approach to security. My work regularly involves the following tools and technologies:
 
 
 ### 🛡️ SIEMs 
@@ -29,7 +29,7 @@ Active certifications:
 - <b>[ISC2 Certified in Cybersecurity](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)</b>
 
 Currently studying for:
-- <b>[CompTIA PenTest+](https://www.comptia.org/en-us/certifications/pentest/v3/) [Estimated: July 2025]</b>
+- <b>[CompTIA PenTest+](https://www.comptia.org/en-us/certifications/pentest/v3/) [Estimated: August 2025]</b>
 
 Planned for the near future:
 - <b>[CompTIA SecurityX/CASP+](https://www.comptia.org/en-us/certifications/securityx/)</b>
