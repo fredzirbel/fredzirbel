@@ -15,7 +15,7 @@ Microsoft Sentinel · Splunk Enterprise · Sumo Logic · Devo
 Microsoft Defender XDR · CrowdStrike Falcon · Palo Alto Cortex XDR · SentinelOne · VMware Carbon Black
 
 
-<h2>👨‍💻 Projects </h2>
+<h2>👨‍💻 Projects/Labs </h2>
 
 - <b>[DNS Sinkhole](https://github.com/fredzirbel/DNS-Sinkhole)</b>
 - <b>[Active Directory Lab](https://tryhackme.com/r/room/winadbasics)</b>
