@@ -5,7 +5,7 @@
 
 ---
 
-I am a Senior Security Analyst with hands-on experience in SIEM and EDR/XDR platforms, specializing in threat detection, log analysis, and incident response in enterprise environments. I am currently pursuing a Master of Science degree in Cybersecurity and Information Assurance (online, asynchronous), expanding my technical expertise and strengthening my strategic approach to security. Here are the core tools and technologies I work with on a day-to-day basis:
+I am a Senior Security Analyst with hands-on experience in SIEM and EDR/XDR platforms, specializing in threat detection, log analysis, and incident response in enterprise environments. Outside of work, I am pursuing a Master of Science degree in Cybersecurity and Information Assurance (online + asynchronous), expanding my technical expertise and strengthening my strategic approach to security. Here are the core tools and technologies I work with on a day-to-day basis:
 
 
 ### 🛡️ SIEMs 
