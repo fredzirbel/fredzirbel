@@ -35,10 +35,6 @@ I’m a Senior Security Analyst with hands-on experience in SIEM and EDR/XDR pla
 
 <h2> 📜 Certifications </h2>
 
-**Actively studying for:**
-- <b>[CompTIA SecurityX](https://www.comptia.org/en-us/certifications/securityx/)</b>
-- <b>[ISACA CISM](https://www.isaca.org/credentialing/cism)</b>
-
 **Active:**
 - <b>[CompTIA CySA+](https://www.credly.com/badges/169e383d-80ba-4a0a-b12b-b1cf447bac8e)</b>
 - <b>[CompTIA PenTest+](https://www.credly.com/badges/8ed7f32d-6a82-4aab-9079-8fec5bcef846/public_url)</b>
@@ -46,9 +42,8 @@ I’m a Senior Security Analyst with hands-on experience in SIEM and EDR/XDR pla
 - <b>[CompTIA A+](https://www.credly.com/badges/c183d3cb-6f71-4313-abfd-2bae18629f53)</b>
 - <b>[ISC2 Certified in Cybersecurity](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)</b>
 
-<h2 align="center"> 🤳 Connect with me! </h2>
+<h2>🤳 Connect with me! </h2>
 
-<p align="center">
 <a href="https://linkedin.com/in/fredzirbel">
   <img alt="FredZirbel | LinkedIn" width="50px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />
 </a>
