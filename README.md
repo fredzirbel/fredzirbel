@@ -27,15 +27,15 @@ I’m a Senior Security Analyst with hands-on experience in SIEM and EDR/XDR pla
 
 <h2>👨‍💻 Projects/Labs </h2>
 
+- <b>[Cloud Security Posture Monitor](https://github.com/fredzirbel/cloud-security-posture-monitor)</b> — Python CSPM tool that runs 17 automated security checks against AWS environments, mapped to CIS Benchmarks v3.0, with HTML/JSON reporting, Slack alerting, and scan-over-scan trend analysis.
+- <b>[LLM Prompt Injection Detector](https://github.com/fredzirbel/llm-prompt-injection-detector)</b> — Multi-layered FastAPI detection API that identifies prompt injection attacks using regex, heuristic analysis, and ML classification, with a Streamlit monitoring dashboard.
 - <b>[Pi-hole: A DNS Sinkhole](https://github.com/fredzirbel/DNS-Sinkhole)</b>
-
-<br>
-<i>🚧 More projects and labs are currently under construction. Check back soon! 🚧</i>
 
 
 <h2> 📜 Certifications </h2>
 
 **Active:**
+- <b>CompTIA SecurityX (CASP+)</b>
 - <b>[CompTIA CySA+](https://www.credly.com/badges/169e383d-80ba-4a0a-b12b-b1cf447bac8e)</b>
 - <b>[CompTIA PenTest+](https://www.credly.com/badges/8ed7f32d-6a82-4aab-9079-8fec5bcef846/public_url)</b>
 - <b>[CompTIA Security+](https://www.credly.com/badges/9283e8db-5d15-40a4-af14-5b44b5fcc42c)</b>
