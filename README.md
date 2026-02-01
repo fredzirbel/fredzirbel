@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fred! 👋</h1>
+<h1 align="center"> Hi, I'm Fred! 👋 </h1>
 
 I'm a Senior Security Analyst at [Critical Start](https://www.criticalstart.com/) with hands-on experience across multiple SIEM and EDR/XDR platforms, specializing in threat detection, log analysis, and incident response. I hold a Master of Science in Cybersecurity and Information Assurance, combining technical depth with a strategic approach to defense.
 
@@ -35,7 +35,7 @@ I'm a Senior Security Analyst at [Critical Start](https://www.criticalstart.com/
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="25">
 </p>
 
-<h2>👨‍💻 Projects/Labs </h2>
+<h2> 👨‍💻 Projects </h2>
 
 - <b>[Cloud Security Posture Monitor](https://github.com/fredzirbel/cloud-security-posture-monitor)</b> — Python CSPM tool that runs 17 automated security checks against AWS environments, mapped to CIS Benchmarks v3.0, with HTML/JSON reporting, Slack alerting, and scan-over-scan trend analysis.
 - <b>[LLM Prompt Injection Detector](https://github.com/fredzirbel/llm-prompt-injection-detector)</b> — Multi-layered FastAPI detection API that identifies prompt injection attacks using regex, heuristic analysis, and ML classification, with a Streamlit monitoring dashboard.
@@ -51,7 +51,7 @@ I'm a Senior Security Analyst at [Critical Start](https://www.criticalstart.com/
   <a href="https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url"><img src="https://img.shields.io/badge/-ISC2%20CC-006400?style=flat&logoColor=white" height="25"></a>
 </p>
 
-<h2>🤳 Connect with me! </h2>
+<h2> 🤳 Connect with me! </h2>
 
 <a href="https://linkedin.com/in/fredzirbel">
   <img alt="FredZirbel | LinkedIn" width="50px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />
