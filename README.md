@@ -38,9 +38,9 @@ I'm a Senior Security Analyst at [Critical Start](https://www.criticalstart.com/
 <h2> 👨‍💻 Projects </h2>
 
 - <b>[IRIS — Intelligent Risk Inspection System](https://github.com/fredzirbel/IRIS)</b> — Containerized URL analysis platform that scans suspicious links across 8 security dimensions simultaneously, combining threat intelligence feeds with severity-aware scoring to classify phishing URLs in real time. Built for SOC analysts.
+- <b>[HomeSOC Platform](https://github.com/fredzirbel/homesoc-platform)</b> — Live homelab detection engineering platform deployed in Proxmox LXC that ingests OPNsense/Proxmox telemetry into OpenSearch, runs ATT&CK-mapped detections, and sends tuned Discord alerts for analyst triage.
 - <b>[Cloud Security Posture Monitor](https://github.com/fredzirbel/cloud-security-posture-monitor)</b> — Python CSPM tool that runs 17 automated security checks against AWS environments, mapped to CIS Benchmarks v3.0, with HTML/JSON reporting, Slack alerting, and scan-over-scan trend analysis.
 - <b>[LLM Prompt Injection Detector](https://github.com/fredzirbel/llm-prompt-injection-detector)</b> — Multi-layered FastAPI detection API that identifies prompt injection attacks using regex, heuristic analysis, and ML classification, with a Streamlit monitoring dashboard.
-- <b>[DNS Sinkhole + Unbound](https://github.com/fredzirbel/DNS-Sinkhole)</b> — Network-wide ad and tracker blocking using Pi-hole as a DNS sinkhole with Unbound as a recursive resolver, deployed on a Raspberry Pi.
 
 <h2> 📜 Certifications </h2>
 
