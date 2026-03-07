@@ -7,7 +7,6 @@ I'm a Senior Security Analyst at [Critical Start](https://www.criticalstart.com/
   <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Sumo%20Logic-000080?style=flat&logo=sumologic&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-Devo-5C3FD6?style=flat&logoColor=white" height="25">
 </p>
 
 ### 🔍 EDRs/XDRs
@@ -38,6 +37,7 @@ I'm a Senior Security Analyst at [Critical Start](https://www.criticalstart.com/
 <h2> 👨‍💻 Projects </h2>
 
 - <b>[IRIS — Intelligent Risk Inspection System](https://github.com/fredzirbel/IRIS)</b> — Containerized URL analysis platform that scans suspicious links across 8 security dimensions simultaneously, combining threat intelligence feeds with severity-aware scoring to classify phishing URLs in real time. Built for SOC analysts.
+- <b>[SIGIL — Sigma Intelligence Governance & Integration Layer](https://github.com/fredzirbel/SIGIL)</b> — Detection-as-Code framework that validates Sigma rules, converts them to Splunk SPL and Sentinel KQL, tests detections against sample logs, and maps ATT&CK coverage gaps through an interactive web dashboard with CI/CD pipeline integration.
 - <b>[HomeSOC Platform](https://github.com/fredzirbel/homesoc-platform)</b> — Live homelab detection engineering platform deployed in Proxmox LXC that ingests OPNsense/Proxmox telemetry into OpenSearch, runs ATT&CK-mapped detections, and sends tuned Discord alerts for analyst triage.
 - <b>[Cloud Security Posture Monitor](https://github.com/fredzirbel/cloud-security-posture-monitor)</b> — Python CSPM tool that runs 17 automated security checks against AWS environments, mapped to CIS Benchmarks v3.0, with HTML/JSON reporting, Slack alerting, and scan-over-scan trend analysis.
 - <b>[LLM Prompt Injection Detector](https://github.com/fredzirbel/llm-prompt-injection-detector)</b> — Multi-layered FastAPI detection API that identifies prompt injection attacks using regex, heuristic analysis, and ML classification, with a Streamlit monitoring dashboard.
