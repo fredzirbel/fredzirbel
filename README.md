@@ -17,6 +17,8 @@ Alongside the day job, I build security-focused projects with heavy AI assistanc
 <p>
   <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-Falcon%20Next--Gen%20SIEM-FC0000?style=flat&logo=crowdstrike&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-Cortex%20XSIAM-FA582D?style=flat&logo=paloaltonetworks&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Sumo%20Logic-000080?style=flat&logo=sumologic&logoColor=white" height="25">
 </p>
 
