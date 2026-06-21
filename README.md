@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm Fred! 👋 </h1>
 
-I'm a Senior Security Analyst at Critical Start working across multiple SIEM and EDR/XDR platforms, where I triage, investigate, contain, and escalate threats across a large multi-tenant environment. My focus is threat investigation, log analysis, and tuning detection logic to cut alert noise at scale, backed by an M.S. in Cybersecurity and Information Assurance.
+I'm a Senior Security Analyst at [Critical Start](https://www.criticalstart.com) working across multiple SIEM and EDR/XDR platforms, where I triage, investigate, contain, and escalate threats across 2,500+ multi-tenant customer environments. My focus is threat investigation, log analysis, and tuning detection logic to cut alert noise at scale.
 
-Alongside the day job, I build security-focused projects with heavy AI assistance, using them both to automate routine analyst work and to learn the underlying technologies hands-on. All of the code here was created with AI. I treat these as a learning ground for understanding how the tools fit together and where AI belongs in detection and defense, so think of them as works in progress rather than a claim of expert-level skill across everything listed.
+Alongside my analyst work, I build security-focused projects as a way to learn the underlying technologies hands-on and automate routine SOC tasks in the process. AI writes the code; I use it to study how the tools fit together and where AI belongs in detection and defense. Every repo here is a learning exercise and a work in progress. Currently going deeper on detection engineering (writing and testing my own detection rules).
 
 
 ### 🔍 EDRs/XDRs
@@ -33,8 +33,6 @@ Alongside the day job, I build security-focused projects with heavy AI assistanc
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?style=flat&logo=microsoftentraid&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="25">
 </p>
 
 <h2> 👨‍💻 Projects </h2>
@@ -51,6 +49,7 @@ Alongside the day job, I build security-focused projects with heavy AI assistanc
   <a href="https://www.credly.com/badges/8ed7f32d-6a82-4aab-9079-8fec5bcef846/public_url"><img src="https://img.shields.io/badge/-CompTIA%20PenTest%2B-C8202F?style=flat&logo=comptia&logoColor=white" height="25"></a>
   <a href="https://www.credly.com/badges/9283e8db-5d15-40a4-af14-5b44b5fcc42c"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-C8202F?style=flat&logo=comptia&logoColor=white" height="25"></a>
   <a href="https://www.credly.com/badges/c183d3cb-6f71-4313-abfd-2bae18629f53"><img src="https://img.shields.io/badge/-CompTIA%20A%2B-C8202F?style=flat&logo=comptia&logoColor=white" height="25"></a>
+  
   <a href="https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url"><img src="https://img.shields.io/badge/-ISC2%20CC-006400?style=flat&logoColor=white" height="25"></a>
 </p>
 
