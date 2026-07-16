@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Fred! 👋 </h1>
 
-I'm a Senior Security Analyst at [Critical Start](https://www.criticalstart.com) working across multiple SIEM and EDR/XDR platforms, where I triage, investigate, contain, and escalate threats across 2,500+ multi-tenant customer environments. My focus is threat investigation, log analysis, and tuning detection logic to cut alert noise at scale.
+I'm a Principal Security Analyst at [Critical Start](https://www.criticalstart.com), a 24/7 MDR protecting 2,500+ multi-tenant customer environments. I work across multiple SIEM and EDR/XDR platforms, where I investigate security incidents and execute remediation actions on live threats. My focus is threat investigation, KQL-driven log analysis, and tuning detection logic to cut alert noise at scale.
 
 Alongside my analyst work, I build security-focused projects as a way to learn the underlying technologies hands-on and automate routine SOC tasks in the process. AI writes the code; I use it to study how the tools fit together and where AI belongs in detection and defense. Every repo here is a learning exercise and a work in progress. Currently going deeper on detection engineering (writing and testing my own detection rules).
 
