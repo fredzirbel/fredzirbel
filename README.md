@@ -37,7 +37,7 @@ Alongside my analyst work, I build security-focused projects as a way to learn t
 
 <h2> 👨‍💻 Projects </h2>
 
-- <b>[IRIS (Intelligent Risk Inspection System)](https://github.com/fredzirbel/IRIS)</b> - Containerized URL analysis platform that scans suspicious links across 8 security dimensions simultaneously, combining threat intelligence feeds with severity-aware scoring to classify malicious URLs in real time. Built for SOC analysts.
+- <b>[SOC Box (The SOC Analyst's Toolbox)](https://github.com/fredzirbel/SOCBox)</b> - Containerized toolbox for SOC analysts that detonates suspicious URLs across 8 concurrent security analyzers with severity-aware threat intelligence scoring, enriches IPs across multiple OSINT sources, and generates Defender XDR/Sentinel KQL hunting queries from any indicator.
 - <b>[SIGIL (Sigma Intelligence Governance & Integration Layer)](https://github.com/fredzirbel/SIGIL)</b> - Detection-as-Code framework that validates Sigma rules, converts them to Splunk SPL and Sentinel KQL, tests detections against sample logs, and maps ATT&CK coverage gaps through an interactive web dashboard with CI/CD pipeline integration.
 - <b>[HomeSOC Platform](https://github.com/fredzirbel/homesoc-platform)</b> - Live homelab detection engineering platform deployed in Proxmox LXC that ingests OPNsense/Proxmox telemetry into OpenSearch, runs ATT&CK-mapped detections, and sends tuned Discord alerts for personal triage.
 
