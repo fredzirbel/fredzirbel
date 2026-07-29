@@ -39,7 +39,7 @@ Alongside my analyst work, I build security-focused projects as a way to learn t
 
 - <b>[SOC Box (The SOC Analyst's Toolbox)](https://github.com/fredzirbel/SOCBox)</b> - Containerized toolbox for SOC analysts that detonates suspicious URLs across 8 concurrent security analyzers with severity-aware threat intelligence scoring, enriches IPs across multiple OSINT sources, and generates Defender XDR/Sentinel KQL hunting queries from any indicator.
 - <b>[SIGIL (Sigma Intelligence Governance & Integration Layer)](https://github.com/fredzirbel/SIGIL)</b> - Detection-as-Code framework that validates Sigma rules, converts them to Splunk SPL and Sentinel KQL, tests detections against sample logs, and maps ATT&CK coverage gaps through an interactive web dashboard with CI/CD pipeline integration.
-- <b>[HomeSOC Platform](https://github.com/fredzirbel/homesoc-platform)</b> - Live homelab detection engineering platform deployed in Proxmox LXC that ingests OPNsense/Proxmox telemetry into OpenSearch, runs ATT&CK-mapped detections, and sends tuned Discord alerts for personal triage.
+- <b>[HomeSOC Platform](https://github.com/fredzirbel/homesoc-platform)</b> - ELK-native homelab detection engineering platform deployed in Proxmox LXC that collects OPNsense/Proxmox telemetry through Logstash, analyzes it in Elasticsearch and Kibana, runs ATT&CK-mapped detections, and sends tuned Discord alerts.
 
 <h2> 📜 Certifications </h2>
 
